@@ -14,6 +14,8 @@ lien de l'api:
 http://127.0.0.1:8000/
 ```
 
+## Architecture
+
 ```
 ├── app/
 │   ├── database.py
