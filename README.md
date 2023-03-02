@@ -1,6 +1,7 @@
 ## Pré-requis - Install des requirements
 
 toute les dependances sont dans requirements.txt
+il manque juste le "link" dans "database.py", qui est votre link vers la base de donnée mysql
 
 ## Utilisation
 
